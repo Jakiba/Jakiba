@@ -29,4 +29,4 @@
 </br>
 </br>
 
-<h2 align='center'> 📫 You can reach me per Linkedin (click on logo at the top) or my E-mail: <strong>Jakob0001@outlook.de!</strong></h2>
+<h2 align='center'> 📫 You can reach me per Linkedin (click on logo at the top) or my E-mail: <strong>JaIbrahim@outlook.de!</strong></h2>
