@@ -25,8 +25,3 @@
 
 <p align='center'> 💞️ I’m interested in collaborating on every project, where i can be of help 😁!</p>
 <div align='center'><span><img src="https://media.giphy.com/media/KtHYHsCSQurUc7Kuf3/giphy.gif" width="300"/></span></div>
-
-</br>
-</br>
-
-<h2 align='center'> 📫 You can reach me per Linkedin (click on logo at the top) or my E-mail: <strong>JaIbrahim@outlook.de!</strong></h2>
